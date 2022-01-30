@@ -5,6 +5,6 @@ Este é meu livro de receitas :happy:
 
 - Strogonoff de Frango
 
-- Coxinha
+- Pavê
 
   
